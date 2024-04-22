@@ -4,7 +4,7 @@ export function taskFirst() {
 }
 
 export function getLast() {
-  let combination = "But sometimes let";
+  let combination = 'But sometimes let';
   combination += ' is okay'; // Append ' is okay' to the combination
 
   return combination;
