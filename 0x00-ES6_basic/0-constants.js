@@ -1,15 +1,16 @@
 export function taskFirst() {
- const task = 'I prefer const when I can.';
- return task;
- }
+  const task = 'I prefer const when I can.';
+  return task;
+}
 
 export function getLast() {
- return ' is okay';
- }
+  let combination = "But sometimes let";
+  combination += ' is okay'; // Append ' is okay' to the combination
+
+  return combination;
+}
 
 export function taskNext() {
- let combination = "But sometimes let' ;
- combination += getLast();
-
- return combination;
+  const combination = getLast(); // Use const to declare combination, no need to reassign
+  return combination;
 }
