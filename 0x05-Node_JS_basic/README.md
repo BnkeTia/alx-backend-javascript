@@ -38,7 +38,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Provided files
 
-`database.csv`
+#### `database.csv`
 ```
 firstname,lastname,age,field
 Johann,Kerbrou,30,CS
