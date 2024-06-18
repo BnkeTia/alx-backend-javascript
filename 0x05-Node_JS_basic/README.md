@@ -38,7 +38,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Provided files
 
-#### `database.csv`
+### `database.csv`
 ```
 firstname,lastname,age,field
 Johann,Kerbrou,30,CS
@@ -53,7 +53,7 @@ Tommy,Schoul,32,SWE
 Katie,Shirou,21,CS
 ```
 
-`package.json`
+### `package.json`
 
 ```
 {
@@ -89,7 +89,7 @@ Katie,Shirou,21,CS
 }
 ```
 
-`babel.config.js`
+### `babel.config.js`
 
 ```
 module.exports = {
@@ -106,7 +106,7 @@ module.exports = {
 };
 ```
 
-`.eslintrc.js`
+### `.eslintrc.js`
 
 ```
 module.exports = {
