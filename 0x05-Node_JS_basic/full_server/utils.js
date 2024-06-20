@@ -1,4 +1,4 @@
-// file containing function to read from database
+// A file containing function to read from database
 const { readFile } = require('fs');
 
 module.exports = function readDatabase(filePath) {
